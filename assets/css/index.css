@@ -1,0 +1,78 @@
+body{
+	left: 0;
+	top: 0;
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: auto;
+}
+
+header{
+	height: 50px;
+	width: 100%;
+
+	background-color: #F69619;
+	display: inline-block;
+	z-index: 1000;
+	line-height: 50px;
+}
+
+header img{
+	float: left;
+	display: block;
+}
+
+header h1{
+	color: #FFF;
+	display: inline-block;
+	position: relative;
+
+	font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+	letter-spacing: -0.02em;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: -0.04em;
+	font-size: 20px;
+	vertical-align: middle;
+	line-height: normal;
+
+}
+
+header h2{
+	color: #FFF;
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+
+	font-family: "jaf-bernino-sans","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+	letter-spacing: -0.02em;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: -0.04em;
+	font-size: 14px;
+
+	line-height: 50px;
+	height: 50px;
+
+	margin: auto 10px auto 0;
+	padding: auto 0 auto 0;
+}
+
+header h2 a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+.right{
+	float: right;
+}
+
+.fb-like{
+	display: inline-block;
+	height: 50px;
+	width: 100px;
+}
+
+.author{
+	display: none;
+}
