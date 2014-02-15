@@ -14,7 +14,10 @@ Today I discover that "[Bitcoin History](http://historyofbitcoin.org/)" exists a
 On the media
 -------------
 
-Currently, we doesn't appear in any place. Wow, much work, such deception.
+Currently, we just appear in few places. Wow, much work, such deception.
+
+- [BitcoinTalk forums](https://bitcointalk.org/index.php?topic=468105.msg5166561#msg5166561)
+- [Reddit](http://www.reddit.com/r/Bitcoin/comments/1y00rg/the_history_of_bitcoin_an_animated_timeline/)
 
 About
 ------------
