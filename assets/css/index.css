@@ -67,10 +67,14 @@ header h2 a{
 	float: right;
 }
 
-.fb-like{
+.facebook-like{
+	border:none; 
+	overflow:hidden; 
+	width:130px; 
+	height:21px;
 	display: inline-block;
-	height: 50px;
-	width: 100px;
+	vertical-align: middle;
+	margin: auto auto;
 }
 
 .author{
