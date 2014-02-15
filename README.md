@@ -1,7 +1,7 @@
 The History of Bitcoin
 ===============
 
-"The History of Bitcoin" allows users discover the history of Bitcoin in an animated and awesome timeline. This is just an "one day project" that every programmer have, but if you liked it feel free to [suggest improves](https://github.com/paladini/bitcoin-history/issues), [fork](https://github.com/paladini/bitcoin-history/fork) or [star it](https://github.com/paladini/bitcoin-history/star).
+"[The History of Bitcoin](http://paladini.github.io/bitcoin-history/)" allows users discover the history of Bitcoin in an animated and awesome timeline. This is just an "one day project" that every programmer have, but if you liked it feel free to [suggest improves](https://github.com/paladini/bitcoin-history/issues), [fork](https://github.com/paladini/bitcoin-history/fork) or [star it](https://github.com/paladini/bitcoin-history/star).
 
 ![The History of Bitcoin webpage](http://farm8.staticflickr.com/7312/12538110083_154f6eddfe_c.jpg)
 
