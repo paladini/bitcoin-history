@@ -7,6 +7,10 @@ The History of Bitcoin
 
 Oh, I almost forget. If you have blog, post about our website, so someone can have a nice idea based on this concept (I hope so) or just make a copy of it talking about [Dogecoin](http://dogecoin.com/) instead BTC.
 
+Oh my...fuck!
+-------------
+Today I discover that "[Bitcoin History](http://historyofbitcoin.org/)" exists and use the same concept I choose to this project. They have a nice website with a great timeline, they're great - but fuck this shit, we're open-source bitch! \o/
+
 On the media
 -------------
 
