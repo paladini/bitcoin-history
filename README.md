@@ -20,6 +20,8 @@ Currently, we just appear in few places. Wow, much work, such deception.
 - [Reddit](http://www.reddit.com/r/Bitcoin/comments/1y00rg/the_history_of_bitcoin_an_animated_timeline/)
 - [MorningBit channel (Video)](https://www.youtube.com/watch?v=J5vfVAT3v44&list=UU89M68IxdEVKrHJJdw0uVVg&feature=c4-overview)
 - [Fernando Paladini blog (PT-BR)](http://fpaladini.blogspot.com.br/2014/02/a-historia-do-bitcoin-timeline-animada-interativa.html)
+- [GameVício (PT-BR)](http://www.gamevicio.com/i/noticias/182/182747-a-historia-do-bitcoin-uma-linha-do-tempo-animada/index.html)
+- [Tribo Gamer (PT-BR)](http://tribogamer.com/jogos/noticias/?id=21158)
 
 About
 ------------
